@@ -42,8 +42,8 @@ Currently focused on:
 
 ---
 
-## GitHub Statistics
+## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=kjlesmes&show_icons=true&theme=dark"/>
+![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjlesmes&show_icons=true&theme=dark)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjlesmes&layout=compact&theme=dark"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjlesmes&layout=compact&theme=dark)
