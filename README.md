@@ -1,12 +1,31 @@
-# Karen Lesmes
+# Hi, I'm Karen Lesmes 👋
 
 Data Scientist | Data Analyst | Industrial & Operational Analytics
 
-📍 Funza  
+📍 Funza, Colombia  
 💼 [LinkedIn](https://linkedin.com/in/kjlesmes)  
-📂 [Project Portfolio](https://drive.google.com/drive/folders/1yMO0-Em9PlqE9h9ZvsrKqo5DLAUr3meK?usp=sharing)
+📂 [Project Portfolio](TU_LINK_DE_DRIVE)
+
+---
+
+## About Me
+
+Data scientist with a background in Mechatronics Engineering and experience in data analysis, industrial analytics, and technical problem solving.
+
+Currently focused on:
+- Data analysis with Python
+- Machine learning
+- Data visualization
+- Industrial analytics
+
+---
 
 ## Featured Projects
 
-- Mechanical Design Projects
-- Basic Password Generator
+🔹 Netflix Data Analysis  
+🔹 Mechanical Design Projects  
+🔹 Password Generator (Python)
+
+---
+
+## Tools & Technologies
