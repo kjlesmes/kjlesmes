@@ -39,3 +39,11 @@ Currently focused on:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </p>
+
+---
+
+## GitHub Stats
+
+![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjlesmes&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjlesmes&layout=compact&theme=dark)
